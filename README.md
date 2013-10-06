@@ -1,3 +1,7 @@
+#Fork of  jmoiron/sqlx
+
+jmoiron/sqlx now has a NameMapper setting which makes this fork no longer needed.
+ 
 #sqlx
 
 [![Build Status](https://drone.io/github.com/jmoiron/sqlx/status.png)](https://drone.io/github.com/jmoiron/sqlx/latest)
